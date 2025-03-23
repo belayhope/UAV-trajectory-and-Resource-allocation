@@ -1,1 +1,1 @@
-# UAV-trajectory-and-Resource-allocation
+# optmize UAV-trajectory-and-Resource-allocation using federeated multi agent deep reforcement learning(FL-MADDPG) with guassian mixiture model(GMM) in Integerated LEO satellite and multi UAV enabled marine network for marine IoT system
